@@ -1,0 +1,3 @@
+exercice 2: la même chose, mais qu'à partir de la console !
+indice: vous pouvz utiliser vim, un éditeur de texte linux très puissant sous terminal
+il marche à base de ESC et de commandes (cf la ligne du bas). Pensez à la touche INSER de votre clavier, pour une fois qu'elle marche
