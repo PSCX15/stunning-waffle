@@ -3,4 +3,4 @@ indice: vous pouvz utiliser vim, un éditeur de texte linux très puissant sous 
 il marche à base de ESC et de commandes (cf la ligne du bas). Pensez à la touche INSER de votre clavier, pour une fois qu'elle marche
 
 -> Marc Jourdan =D
-
+-> Grégoire Roussel qui fait les exos aussi pour être sûr
