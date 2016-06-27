@@ -11,7 +11,10 @@ git checkout
 vim njnkn.txt (ainsi que d'autres commandes dans l'éditeur de texte console vim)
 git add .
 git commit -a
+git commit
 git push --set-upstream origin Marc
-
+git push origin Marc
+git status
+git log
 
 le gagnant du jour est: "Marc jourdan" !
