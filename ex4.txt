@@ -10,3 +10,7 @@ Annuler une modif:
 
 --------------DEBUT DES BETISES-------------------------------------
 Zekflop Meleard Subordonnés
+Au final après avoir galéré avec 
+git reset --hard HEAD~2
+je me sens plus 
+INTELLIGENT
