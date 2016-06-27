@@ -4,4 +4,4 @@ consignes:
 - modifier ex3.txt: changer le nom ci-dessous; mettre la liste des commandes utilisées jusqu'à présent(conosole)
 - enfin demander un pull-request sur master (via le site)
 
-le gagnant du jour est: "@laposte" !
+le gagnant du jour est: "Marc jourdan" !
