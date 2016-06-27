@@ -1,0 +1,7 @@
+créer une branche via la console et la mettre en ligne
+consignes:
+- créer branche à votre nom, et répercuter le changement en ligne
+- modifier ex3.txt: changer le nom ci-dessous; mettre la liste des commandes utilisées jusqu'à présent
+- enfin demander un pull-request sur master
+
+le gagnant du jour est: "@laposte" !
