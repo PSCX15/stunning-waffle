@@ -3,4 +3,5 @@ indice: vous pouvz utiliser vim, un éditeur de texte linux très puissant sous 
 il marche à base de ESC et de commandes (cf la ligne du bas). Pensez à la touche INSER de votre clavier, pour une fois qu'elle marche
 
 -> Marc Jourdan =D
+-> Charlotte ^^ (par contre j'ai pas réussi avec git fetch / git merge, j'ai utilisé git clone pour y arriver)
 
