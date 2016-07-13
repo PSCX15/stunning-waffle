@@ -14,3 +14,4 @@ Au final après avoir galéré avec
 git reset --hard HEAD~2
 je me sens plus 
 INTELLIGENT
+blablabla InTeLLigent
