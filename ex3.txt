@@ -1,4 +1,4 @@
-créer une branche via la console et la mettre en ligne
+﻿créer une branche via la console et la mettre en ligne
 consignes:
 - créer branche à votre nom, et répercuter le changement en ligne(console)
 - modifier ex3.txt: changer le nom ci-dessous; mettre la liste des commandes utilisées jusqu'à présent(conosole)
@@ -17,4 +17,6 @@ git push origin Marc
 git status
 git log
 
-le gagnant du jour est: "Marc jourdan" !
+git checkout -b
+
+le gagnant du jour est: ""l'éclopé" ... après marki
