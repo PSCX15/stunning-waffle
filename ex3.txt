@@ -6,17 +6,14 @@ consignes:
 
 liste des commandes utilisées depuis le début: 
 git clone
-git branch
-git checkout
-vim njnkn.txt (ainsi que d'autres commandes dans l'éditeur de texte console vim)
-git add .
-git commit -a
-git commit
-git push --set-upstream origin Marc
-git push origin Marc
-git status
-git log
+git branch greg
+git checkout greg
+vim ex3.txt
+git commit -a -m "update du fichier"
+git push --set-upstream origin greg
+git push
+git checkout master
+--après le pull request
+git branch -d greg
 
-git checkout -b
 
-le gagnant du jour est: ""l'éclopé" ... après marki
