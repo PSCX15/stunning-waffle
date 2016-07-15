@@ -5,3 +5,4 @@ il marche à base de ESC et de commandes (cf la ligne du bas). Pensez à la touc
 -> Marc Jourdan =D
 -> Charlotte ^^ (par contre j'ai pas réussi avec git fetch / git merge, j'ai utilisé git clone pour y arriver)
 -> Eclopé is back
+-> Gregy-chou (qui vérifie qui travaille:p)
