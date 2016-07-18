@@ -1,0 +1,17 @@
+Annuler une modif: 
+ça c'est un beau fichier texte, alors on n'y touche pas. Donc, pour faire des bêtises, on fait comment?
+- on crée une branche, et ensuite on fait des bêtises
+- on fait des bêtises sur le fichier ex4.txt. Par exemple, on se renseigne sur vim (mettez vous sur la dernière ligne, et tentez yy puis 8p)
+- on commit
+- on ecrit ensuite le mot intelligent
+- on commit
+- on se rend compte qu'on a fait une bêtise: on annule les commit précédents! 
+- objectif: un fichier avec que 'intelligent' à la fin
+
+--------------DEBUT DES BETISES-------------------------------------
+Zekflop Meleard Subordonnés
+Au final après avoir galéré avec 
+git reset --hard HEAD~2
+je me sens plus 
+INTELLIGENT
+blablabla InTeLLigent

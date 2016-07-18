@@ -17,7 +17,6 @@ git push origin Marc
 git status
 git log
 
+git checkout -b
 
-le gagnant du jour est: une gagnante pour une fois ! =p "Charlotte"
-
-Par contre Grégy-Chou, tu m'en veux pas si je te mets pas mes commandes ? ^^ parce que c'est le bordel de ce côté là =p
+le gagnant du jour est: ""l'éclopé" ... après marki
