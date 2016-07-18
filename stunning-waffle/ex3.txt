@@ -1,0 +1,22 @@
+﻿créer une branche via la console et la mettre en ligne
+consignes:
+- créer branche à votre nom, et répercuter le changement en ligne(console)
+- modifier ex3.txt: changer le nom ci-dessous; mettre la liste des commandes utilisées jusqu'à présent(conosole)
+- enfin demander un pull-request sur master (via le site)
+
+liste des commandes utilisées depuis le début: 
+git clone
+git branch
+git checkout
+vim njnkn.txt (ainsi que d'autres commandes dans l'éditeur de texte console vim)
+git add .
+git commit -a
+git commit
+git push --set-upstream origin Marc
+git push origin Marc
+git status
+git log
+
+git checkout -b
+
+le gagnant du jour est: ""l'éclopé" ... après marki
