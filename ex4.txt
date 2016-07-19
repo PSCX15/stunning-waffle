@@ -13,3 +13,5 @@ Annuler une modif:
 On recommence.
 Est -ce que c'est bien le revert?
 love, Amaury
+
+Intelligent
