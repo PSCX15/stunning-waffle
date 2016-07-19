@@ -9,11 +9,10 @@ git branch (pour savoir ou on est)
 git checkout -b Amaury
 vim ex3.txt (modif de ce fichier)
 git commit -am "Fin exe3 amaury"
-git push
+git push --set-upstream origin Amaury (je suppose qu'on fait ça que la première fois)
 git status
 git log
 
 
-le gagnant du jour est: une gagnante pour une fois ! =p "Charlotte"
+le gagnant du jour est: une gagnante pour une gagnante "Buisine la coquine"
 
-Par contre Grégy-Chou, tu m'en veux pas si je te mets pas mes commandes ? ^^ parce que c'est le bordel de ce côté là =p
