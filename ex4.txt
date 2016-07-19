@@ -12,6 +12,7 @@ Annuler une modif:
 
 Blabla je fait n'import quoi
 
+INTELLIGENT!!
 
 git reset --hard HEAD~2
 
