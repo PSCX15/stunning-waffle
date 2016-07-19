@@ -9,17 +9,7 @@ Annuler une modif:
 - objectif: un fichier avec que 'intelligent' à la fin
 
 --------------DEBUT DES BETISES-------------------------------------
-<<<<<<< HEAD
 
-Blabla je fait n'import quoi
-
-INTELLIGENT!!
-
-=======
-Zekflop Meleard Subordonnés
-Au final après avoir galéré avec 
->>>>>>> parent of 7d663b9... premier commit de bétises
-git reset --hard HEAD~2
-je me sens plus 
-INTELLIGENT
-blablabla InTeLLigent
+On recommence.
+Est -ce que c'est bien le revert?
+love, Amaury
