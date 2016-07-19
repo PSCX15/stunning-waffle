@@ -1,1 +1,4 @@
 une fois que j'ai donné le feu vert, supprimer la branche de l'ex3
+
+Edit sur le master cette fois: Grégy j'ai fait la push request et le merge moi meme, c'est logique?
+
