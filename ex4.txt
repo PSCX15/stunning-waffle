@@ -8,6 +8,10 @@ Annuler une modif:
 - on se rend compte qu'on a fait une bêtise: on annule les commit précédents! 
 - objectif: un fichier avec que 'intelligent' à la fin
 
---------------DEBUT DES BETISES---------------------------------
+--------------DEBUT DES BETISES-------------------------------------
+
+On recommence.
+Est -ce que c'est bien le revert?
+love, Amaury
 
 Intelligent
