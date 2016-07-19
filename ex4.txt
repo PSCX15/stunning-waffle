@@ -9,9 +9,9 @@ Annuler une modif:
 - objectif: un fichier avec que 'intelligent' à la fin
 
 --------------DEBUT DES BETISES-------------------------------------
-Zekflop Meleard Subordonnés
-Au final après avoir galéré avec 
+
+Blabla je fait n'import quoi
+
+
 git reset --hard HEAD~2
-je me sens plus 
-INTELLIGENT
-blablabla InTeLLigent
+
