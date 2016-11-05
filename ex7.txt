@@ -1,9 +1,9 @@
 objectif: trouver le premier commit dans lequel 'ca marche plus 
- 23742
- 31537
- 32718
- 29871 
- 22182 
- 27089 ca marche.... pluuuuus 24166 
- 12305 
+ 24410
+ 17702
+ 2525
+ 23975 
+ 12212 
+ 2205 ca marche.... pluuuuus 6560 
+ 4085 
  $RANDOM
