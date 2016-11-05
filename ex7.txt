@@ -1,1 +1,9 @@
-ca passe PLUUUUUUUS 19219
+objectif: trouver le premier commit dans lequel 'ca marche plus 
+ 18985
+ 28643
+ 14868
+ 5675 
+ 2896 
+ 27019 ca marche.... encore 15803 
+ 27315 
+ $RANDOM
