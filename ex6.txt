@@ -1,4 +1,4 @@
 Objectif : déplacer le dernier commit sur une autre branche.
-Vous mettez votre nom ici : Marco le Phraseur
+Vous mettez votre nom ici : LALALAALALALALA
 Puis commit sur master
 Puis vous vous débrouillez, vous déplacez ce dernier commit sur une branche '[prenom]ex6' et je ne veux voir le 'LALA' initial sur la branche master
