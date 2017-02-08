@@ -14,5 +14,5 @@ git status
 git log
 
 
-le gagnant du jour est: une gagnante pour une gagnante "Buisine la coquine"
+le gagnant du jour est: une gagnante pour une gagnante "Qinxin"
 
